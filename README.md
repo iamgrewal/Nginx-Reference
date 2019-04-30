@@ -1,7 +1,5 @@
 # Nginx Reference Awesome
 
-# Table of Contents
-
 Before using the **Nginx** please read **[Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)**. **Nginx** is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. If You have increase your knowledge, please read **[Nginx Documentation](https://nginx.org/en/docs/)**.
 
 - [ ] ***Introduction** *   
