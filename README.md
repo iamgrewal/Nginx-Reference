@@ -1,0 +1,64 @@
+# Nginx Reference Awesome
+
+# Table of Contents
+
+Before using the **Nginx** please read **[Beginner's Guide](http://nginx.org/en/docs/beginners_guide.html)**. **Nginx** is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. If You have increase your knowledge, please read **[Nginx Documentation](https://nginx.org/en/docs/)**.
+
+- [ ] **Introduction**    
+    - [ ] [General disclaimer](Introduction/General_disclaimer.md)
+    - [ ] [Printable high-res hardening checklist](Introduction/Printable_high_res_hardening_checklist.md)
+- [ ] **External Resources**
+    - [ ] **About Nginx**
+        - [ ]* [Nginx Project](https://www.nginx.com/)
+        - [ ] [Nginx Documentation](https://www.nginx.com/)
+        - [ ]* [Nginx official read-only mirror](https://github.com/nginx/nginx)
+    - [ ] **References**
+        - [ ] [Nginx boilerplate configs](https://github.com/h5bp/server-configs-nginx)
+        - [ ] [Awesome Nginx configuration template](https://github.com/nginx-boilerplate/nginx-boilerplate)
+        - [ ] [A collection of resources covering Nginx and more](https://github.com/fcambus/nginx-resources)
+        - [ ] [Nginx Secure Web Server](https://calomel.org/nginx.html)
+        - [ ] [Emiller's Guide To Nginx Module Development ](https://www.evanmiller.org/nginx-modules-guide.html)
+    - [ ] **Cheatsheets**
+        - [ ] [Nginx Cheatsheet](https://gist.github.com/carlessanagustin/9509d0d31414804da03b)
+        - [ ] [Nginx Quick Reference](https://github.com/SimulatedGREG/nginx-cheatsheet)
+        - [ ] [Nginx Cheatsheet by Mijdert Stuij](https://mijndertstuij.nl/writing/posts/nginx-cheatsheet/)
+    - [ ] **Performance & Hardening**
+        - [ ] [SSL/TLS Deployment Best Practices](https://www.ssllabs.com/projects/best-practices/)
+        - [ ] [SSL Server Rating Guide](https://www.ssllabs.com/projects/rating-guide/index.html)
+        - [ ] [How to Build a Tough NGINX Server in 15 Steps](https://www.upguard.com/blog/how-to-build-a-tough-nginx-server-in-15-steps)
+        - [ ] [Top 25 Nginx Web Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html)
+        - [ ] [Strong SSL Security on Nginx](https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html)
+        - [ ] [Nginx Tuning For Best Performance by Denji](https://github.com/denji/nginx-tuning)
+        - [ ] [Enable cross-origin resource sharing (CORS)](https://enable-cors.org/index.html)
+        - [ ] [TLS has exactly one performance problem: it is not used widely enough](https://istlsfastyet.com/)
+        - [ ] [WAF for Nginx](https://github.com/nbs-system/naxsi)
+        - [ ] [ModSecurity for Nginx](https://geekflare.com/install-modsecurity-on-nginx/)
+        - [ ] [Transport Layer Protection Cheat Sheet](https://www.owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet)
+        - [ ] [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS)
+    - [ ] **Config generators**
+        - [ ] [Nginx config generator on steroids](https://nginxconfig.io/)
+    - [ ] **Static analyzers**
+        - [ ] [Nginx static analyzer](https://github.com/yandex/gixy)
+    - [ ] **Log analyzers**
+        - [ ] [GoAccess](https://goaccess.io/)
+        - [ ] [Graylog](https://www.graylog.org/)
+        - [ ] [Logstash](https://www.elastic.co/products/logstash)
+    - [ ] **Performance analyzers**
+        - [ ] [ngxtop](https://github.com/lebinh/ngxtop)
+    - [ ] **Benchmarking tools**
+        - [ ] [siege](https://github.com/lebinh/ngxtop)
+        - [ ] [wrk](https://github.com/wg/wrk)
+        - [ ] [bombardier](https://github.com/codesenberg/bombardier)
+        - [ ] [gobench](https://github.com/cmpxchg16/gobench)
+    - [ ] **Online tools**
+        - [ ] [SSL Server Test](https://www.ssllabs.com/ssltest/)
+        - [ ] [SSL/TLS Capabilities of Your Browser](https://www.ssllabs.com/ssltest/viewMyClient.html)
+        - [ ] [Strong ciphers for Apache, Nginx, Lighttpd and more](https://cipherli.st/)
+        - [ ] [Analyse the HTTP response headers by Security Headers](https://securityheaders.com/)
+        - [ ] [Analyze your website by Mozilla Observatory](https://observatory.mozilla.org/)
+        - [ ] [Online tool to learn, build, & test Regular Expressions](https://regexr.com/)
+        - [ ] [Online Regex Tester & Debugger](https://www.regextester.com/)
+    - [ ] **Other stuff**
+        - [ ] [BBC Digital Media Distribution: How we improved throughput by 4x](http://www.bbc.co.uk/blogs/internet/entries/17d22fb8-cea2-49d5-be14-86e7a1dcde04)
+        - [ ] [Web cache server performance benchmark: nuster vs nginx vs varnish vs squid](https://github.com/jiangwenyuan/nuster/wiki/Web-cache-server-performance-benchmark:-nuster-vs-nginx-vs-varnish-vs-squid)
+- [ ] **Helpers**
